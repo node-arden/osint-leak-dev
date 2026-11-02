@@ -1,0 +1,2 @@
+# фікстура для модульних тестів, не справжній токен
+ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
